@@ -1,0 +1,104 @@
+@charset "UTF-8";
+h1 {
+    color: #0A61B2;
+    text-align: center;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.yes  {
+    color: #249ED4;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding-left: 16px;
+	
+}
+.no {
+    color: #249ED4;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding-left: 16px;
+	text-align: center;
+
+}
+.maybe {
+    color: #250B6D;
+    text-align: left;
+}
+.topnav {
+    overflow: hidden;
+    background-color: #C2D3EC;
+    margin-left: 0px;
+}
+
+.topnav a {
+    float: left;
+    color: #006173;
+    text-align: center;
+    padding: 10px 43px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+#dolcetti {
+	align-content: center;
+	
+}
+.topnav a.active {
+    background-color: #4CAF50;
+	color: #62AA9D;
+}
+
+.yeah {
+	color: #250B6D;
+	text-align: center
+}
+.if{
+    margin-left: 500px;
+    margin-bottom: 20px;
+    position: static;
+    margin-right: 0px;
+}
+
+
+.to {
+	color: #250B6D;
+  
+}
+
+.not {
+   background-color: 
+}
+
+.it {
+	 color: #249ED4;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    padding-left: 16px;
+
+	
+}
+
+.so {
+    color: #250B6D;
+    text-align: left;
+    
+}
+
+.in{
+	margin-right:
+    margin-left: 70px;
+    margin-left: 155px;
+    margin-bottom: 13px;
+}
+
+.a{
+    align-content: center;
+    margin-left: 550px;
+}
+
+.f{
+   background-color:darkgray;
+	color: #250B6D;
+}
